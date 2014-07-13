@@ -1,5 +1,6 @@
 abcpmcmc
 ========
+[![Build Status](https://travis-ci.org/csgillespie/abcpmcmc.png?branch=master)](https://travis-ci.org/csgillespie/abcpmcmc)
 
 This package illustrates example one of the paper
 
