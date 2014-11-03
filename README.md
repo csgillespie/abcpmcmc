@@ -4,9 +4,9 @@ abcpmcmc
 
 This package illustrates example one of the paper
 
->Owen, JR, Gillespie, CS, Wilkinson, DJ, *Scalable
->    Inference for Markov Processes with Intractable Likelihoods*, 2014
->    [arXiv](https://arxiv.org/abs/1403.6886).
+>Owen, JR, Gillespie, CS, Wilkinson, DJ, [Scalable
+>  Inference for Markov Processes with Intractable Likelihoods](http://dx.doi.org/10.1007/s11222-014-9524-7), 
+>  Statistics and Computing, 2014.
 
 Source code for the other examples can be obtained by contacting Jamie Owen <j.r.owen@newcastle.ac.uk)>
 
